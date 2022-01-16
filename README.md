@@ -14,7 +14,7 @@ A collection of GitHub Issue Templates and Forms to capture and manage writing i
 
 ## Templates
 
-Use these templates to help structure your thoughts for specific writing needs:
+Use the included templates to help structure your thoughts for specific writing needs:
 
 - **Tweet**: includes a 280-character comment so you can visually see about how long it should be.
 - **Blog**: set up as an input form with high-level prompts to structure your thoughts.
