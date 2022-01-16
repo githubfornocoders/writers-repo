@@ -41,13 +41,22 @@ Here’s all you need to do to start writing with GitHub Issues:
 1. Go to the Issues tab and press the `New issue` button.
 1. Select one of the templates or start with a blank issue.
 
-> A note about labels: To use the labels included in the issues templates and forms, you have to create those labels in your repo. They are not copied over when using this repo as a template.
-
 You should see this menu when creating a new issue. 👇
 
 ![Screenshot of New Issue menu showing options to use a template for a blog, pitch, or tweet](https://user-images.githubusercontent.com/5177337/149676343-54f905c2-fdae-4457-8c7b-313f8ea58475.jpg)
 
 *The New Issue menu showing available templates*
+
+## Labels
+
+To use the labels included in the issues templates and forms, you have to create those labels in your repo. They are not copied over when using this repo as a template.
+
+Here are some examples, but you can use whatever you want in your repo:
+
+- blog: Topic for a blog post
+- pitch: Concept for a product, service, or feature
+- tweet: Tweetable thought
+
 
 ## Credits and License
 
